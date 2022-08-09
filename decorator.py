@@ -1,4 +1,4 @@
-is_logged_in=False
+is_logged_in=True
 
 def login_required(f):
 
